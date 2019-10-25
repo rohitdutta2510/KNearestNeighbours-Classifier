@@ -1,11 +1,7 @@
 import numpy as np
 from math import sqrt
-import matplotlib.pyplot as plt
 import warnings
-from matplotlib import style
 from collections import Counter
-style.use('fivethirtyeight')
-
 
 #dataset
 #a, b are two classes
